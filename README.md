@@ -1,6 +1,17 @@
 # MasterDSAproblems
 
-Solving Striver's DSA SDE SHEET..
+
+## 30 Days 6 compaines Problems ✍ :-
+    ### Day1-5 : Goldmans Sachs
+    - Problem 1 : (Print Anagrams Together) ✅
+    
+                
+
+
+
+
+
+## Solving Striver's DSA SDE SHEET..
 
 Day 1 : Problems
 
