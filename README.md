@@ -1,13 +1,15 @@
 # MasterDSAproblems
 
 
-## 30 Days 6 compaines Problems ✍ :-
+## 30 Days 6 companies Problems ✍ :-
     ### Day1-5 : Goldmans Sachs
     - Problem 1 : (Print Anagrams Together) ✅
     - Problem 2 : (Overlapping Reactangles) ✅
     - Problem 3 : (Count the subarrays having product less than k) ✅
     - Problem 4 : (Run Length Encoding ) ✅
+    - Problem 5 : (Ugly Numbers) 
     
+
 
     
                 
