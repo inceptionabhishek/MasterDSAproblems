@@ -7,7 +7,8 @@
     - Problem 2 : (Overlapping Reactangles) ✅
     - Problem 3 : (Count the subarrays having product less than k) ✅
     - Problem 4 : (Run Length Encoding ) ✅
-    - Problem 5 : (Ugly Numbers) 
+    - Problem 5 : (Ugly Numbers)
+    - Problem 6 : (Greatest Common Divisor of Strings) ✅
     
 
 
