@@ -9,7 +9,8 @@
     - Problem 4 : (Run Length Encoding ) ✅
     - Problem 5 : (Ugly Numbers)
     - Problem 6 : (Greatest Common Divisor of Strings) ✅
-    
+    - Problem 7 : (Total Decoding Messages)
+    - Problem 8 : (Number following a pattern)
 
 
     
