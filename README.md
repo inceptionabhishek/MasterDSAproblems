@@ -11,6 +11,15 @@
     - Problem 6 : (Greatest Common Divisor of Strings) ✅
     - Problem 7 : (Total Decoding Messages)
     - Problem 8 : (Number following a pattern)
+    - Problem 9 : (Array Pair Sum Divisibility Problem)
+    - Problem 10: (Minimum Size Subarray Sum)
+    - Problem 11: (Decode the string)
+    - Problem 12: (Find total number of Squares in a N*N chessboard)
+    - Problem 13: (Find Missing And Repeating)
+    - Problem 14: (Find the kid which gets tha damaged toy)
+
+    ## Day6-10 : Amazon
+    - Problem 1: (Calculating Maximum Profit )
 
 
     
