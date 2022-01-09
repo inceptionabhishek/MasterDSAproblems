@@ -20,6 +20,7 @@
 
     ## Day6-10 : Amazon
     - Problem 1: (Calculating Maximum Profit )
+    - Problem 2: (Longest Mountain in Array)
 
 
     
